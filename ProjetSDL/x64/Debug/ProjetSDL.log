@@ -1,0 +1,15 @@
+﻿  main.c
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,33): error C2065: 'snakeX' : identificateur non déclaré
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,35): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,56): error C2065: 'snakeY' : identificateur non déclaré
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,58): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(18,35): error C2065: 'fruitX' : identificateur non déclaré
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(18,55): error C2065: 'fruitY' : identificateur non déclaré
+  render.c
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,33): error C2065: 'snakeX' : identificateur non déclaré
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,35): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,56): error C2065: 'snakeY' : identificateur non déclaré
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(12,58): error C2109: un indice requiert un type tableau ou pointeur
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(18,35): error C2065: 'fruitX' : identificateur non déclaré
+C:\Users\amans\source\repos\Partiel_04_29_AM\ProjetSDL\render.c(18,55): error C2065: 'fruitY' : identificateur non déclaré
+  Génération de code en cours...

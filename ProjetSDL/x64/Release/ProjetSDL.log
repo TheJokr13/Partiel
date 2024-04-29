@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\amans\source\repos\ProjetSDL\ProjetSDL\main.c(1,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
